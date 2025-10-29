@@ -1,0 +1,29 @@
+.bg-prime{
+background-color: #D78232!important;
+}
+.text-prime{
+    color:#D78232!important;
+}
+.mb--50{
+    margin-bottom: -50px!important;
+}
+
+.tech-stack{
+    border: solid 2px grey;
+    height: 100px;
+}
+.bg-grey{
+    background-color: rgb(235, 234, 234);
+}
+.image-container {
+    position: relative;
+    text-align: center;
+  }
+  .image-container img {
+    max-width: 100%;
+    height: 70px;
+  }
+  .custom-jumbotron{
+    background-color: rgb(196, 196, 196);
+    border-radius: 5px;
+  }
